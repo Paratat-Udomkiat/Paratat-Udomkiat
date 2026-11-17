@@ -1,6 +1,6 @@
 # Hi, I'm Paratat Udomkiat
 
-3rd-year Robotics and AI Engineering student at KMITL. I train and deploy computer vision models and build full-stack apps, and I'm looking for an internship in **machine learning engineering** or **software engineering**.
+3rd-year Robotics and AI Engineering student at KMITL. I train and deploy computer vision models and build full-stack apps, and I'm looking for an internship in **machine learning engineering**, **research engineering** or **software engineering**.
 
 ## Machine learning & computer vision
 
